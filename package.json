@@ -1,0 +1,22 @@
+{
+  "name": "vuecli-vuex",
+  "version": "1.0.0",
+  "description": "vue CLIとVuexの練習",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuro-wassan/vuecli-vuex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuro-wassan/vuecli-vuex/issues"
+  },
+  "homepage": "https://github.com/kuro-wassan/vuecli-vuex#readme",
+  "devDependencies": {
+    "vue-cli": "^2.9.6"
+  }
+}

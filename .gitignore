@@ -1,0 +1,17 @@
+# IDE
+.vscode/
+
+# Logs
+*.log*
+package-lock.json
+
+# Misc
+example*
+notes/
+node_modules
+coverage
+*.xml
+
+# Dist
+*.gz
+dist/
